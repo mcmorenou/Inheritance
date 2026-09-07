@@ -1,4 +1,4 @@
-﻿namespace Backend;
+﻿namespace GeometricFigures.Backend;
 
 public class Circle : GeometricFigure
 

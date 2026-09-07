@@ -1,4 +1,4 @@
-﻿namespace Backend;
+﻿namespace GeometricFigures.Backend;
 
 public class Rectangle : Square
 
